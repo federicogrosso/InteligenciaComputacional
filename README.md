@@ -1,2 +1,2 @@
 # InteligenciaComputacional
-Neural Networks exercises - swarm algorithms (exercise) - fuzzy logic (exercise)
+Neural Networks exercises - swarm algorithms (exercises) - fuzzy logic (exercises)
